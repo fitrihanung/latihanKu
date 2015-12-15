@@ -27,7 +27,7 @@ switch ($name) {
 		echo "nah, kalo ini baru lengkap namanya FITRI HANUNG WIBOWO";
 		break;
 	default:
-		echo "salah semua";
+		echo "salah semua alias tidak ada yang benar";
 		break;
 }
 ?>
